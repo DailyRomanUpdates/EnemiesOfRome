@@ -19,4 +19,4 @@ Choose graphics mode 1 (VGA). On the title menu pick **Mediterranean** to play o
 - Ancient-only tech tree, barbarians as raiders and pirates, and a new story, news and credits.
 
 ## Credits
-Mod by [Daily Roman Updates](https://x.com/UpdatingOnRome). Fan modification, not affiliated with MicroProse, Firaxis or Take-Two.
+Mod by [Daily Roman Updates](https://x.com/UpdatingOnRome), with help from Grok Bot during the modding process. Fan modification, not affiliated with MicroProse, Firaxis or Take-Two.
